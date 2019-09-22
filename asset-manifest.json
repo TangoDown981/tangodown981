@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a678e121.chunk.css",
+    "main.js": "/static/js/main.3ebb0494.chunk.js",
+    "main.js.map": "/static/js/main.3ebb0494.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff01c3a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff01c3a1.js.map",
+    "static/css/2.ea35eab1.chunk.css": "/static/css/2.ea35eab1.chunk.css",
+    "static/js/2.ba60d29d.chunk.js": "/static/js/2.ba60d29d.chunk.js",
+    "static/js/2.ba60d29d.chunk.js.map": "/static/js/2.ba60d29d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ed992849c41d906b5b5b529c58591543.js": "/precache-manifest.ed992849c41d906b5b5b529c58591543.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ea35eab1.chunk.css.map": "/static/css/2.ea35eab1.chunk.css.map",
+    "static/css/main.a678e121.chunk.css.map": "/static/css/main.a678e121.chunk.css.map",
+    "static/media/App.css": "/static/media/Codec-Warm-Regular-trial.73bbeccd.ttf",
+    "static/media/gear.png": "/static/media/gear.6dca0e3d.png",
+    "static/media/pic.jpg": "/static/media/pic.03b98b2c.jpg"
+  }
+}
